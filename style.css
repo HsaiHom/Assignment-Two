@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background: #f2f2f2;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+.gallery{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+.content{
+    width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 20px ;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.16),0 10px 10px rgba(0,0,0,0.22);
+    background: #f2f2f2;
+}
+img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+P{
+    text-align: center;
+    color: #b2bec3;
+    padding-top: 0 8px;
+
+}
+h6{
+    font-size: 26px;
+    text-align: center;
+    color: #222f3e;
+    margin: 0;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0;
+}
+li{
+    padding-top: 5px;
+}
+.fa{
+    font-size: 26px;
+    margin: 3px;
+}
+.checked{
+    color: rgba(230, 198, 22, 0.952);
+}
+button{
+    text-align: center;
+    font-size: 24px;
+    color: #f2f2f2;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+   
+    margin-top: 5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.buy-1{
+    background:rgba(18, 141, 223, 0.938) ;
+}
+.buy-2{
+    background: rgba(31, 18, 32, 0.836);
+}
+.buy-3{
+    background:rgba(5, 5, 5, 0.959) ;
+}
+.buy-4{
+    background:rgba(230, 94, 15, 0.938) ;
+}
